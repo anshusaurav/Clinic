@@ -1,0 +1,5 @@
+Neurology|These are specialists in the nervous system, which includes the brain, spinal cord, and nerves. They treat strokes, brain and spinal tumors, epilepsy, Parkinson's disease, and Alzheimer's disease.|30
+Gastroenterology|They are specialists in digestive organs, including the stomach, bowels, pancreas, liver, and gallbladder. You might see them for abdominal pain, ulcers, diarrhea, jaundice, or cancers in your digestive organs.|15
+Cardiology|They’re experts on the heart and blood vessels. You might see them for heart failure, a heart attack, high blood pressure, or an irregular heartbeat.|50
+Dermatology|Have problems with your skin, hair, nails? Do you have moles, scars, acne, or skin allergies? Dermatologists can help.|30
+Pediatrician|They care for children from birth to young adulthood. Some pediatricians specialize in pre-teens and teens, child abuse, or children's developmental issues.|20
